@@ -8,12 +8,13 @@ Course: OSS4009 Capstone
 
 Term: F22 - W23
 
-
 Students: Adam Thompson, Philippe Beaulieu
 
 Advisor:  Dr. Marzieh Amini
 
 Description:
+
+Camera hardware needed: Intel D435 Depth Camera
  
 These programs will take the stream of both RGB and DEPTH from an Intel D435 Depth camera
 and predict a defined hand gesture. All the codes are present to create the images, train
