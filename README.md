@@ -19,7 +19,7 @@ Camera hardware needed: Intel D435 Depth Camera
 These programs will take the stream of both RGB and DEPTH from an Intel D435 Depth camera
 and predict a defined hand gesture. All the codes are present to create the images, train
 these images with bot Mediapipe Hand for RGB and a CNN model for DEPTH, and then be able
-to predict hand gesture with a live feed from the Intel D435 cam,era.
+to predict hand gesture with a live feed from the Intel D435 camera.
               
  Files (to be executed in order if you don't have the dataset):
  - 0 - Pre0 - Intel_VideoCam - saving images.ipynb, this is to create the images
