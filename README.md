@@ -4,7 +4,7 @@ Depth Camera Hand Gesture Recognition
 
 Institution: Carleton University
 
-Course: OSS4009 Capstone 
+Course: OSS4900 Capstone 
 
 Term: F22 - W23
 
